@@ -134,27 +134,6 @@ black .
 - Request signature errors: confirm the request is forwarded with original headers and that skill ID validation is correct.
 - Missing dependencies: double-check `requirements.txt` and your active virtual environment.
 
-## Contributing
-Contributions are welcome!
-1. Fork the repository
-2. Create a feature branch: git checkout -b feat/my-feature
-3. Run tests and linters locally
-4. Open a pull request describing your changes
-
-Please follow the repository's code style and include tests for new functionality.
-
-## License
-Specify a license for this project (e.g., MIT). Add a LICENSE file to the repo.
-
-Example:
-```
-MIT License
-Copyright (c) YEAR Your Name
-```
-
-## Contact
-If you need help or want to collaborate, open an issue or contact the repository owner.
-
 ---
 
 If you'd like, I can:
